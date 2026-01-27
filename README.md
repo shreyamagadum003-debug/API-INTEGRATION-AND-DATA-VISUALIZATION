@@ -65,3 +65,7 @@ Pandas (for data handling)
 
 Matplotlib & Seaborn (for visualization)
 
+## output
+
+<img width="997" height="742" alt="Image" src="https://github.com/user-attachments/assets/5e7d38d5-072d-4649-b42a-7770591dcee2" />
+
